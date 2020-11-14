@@ -1,0 +1,17 @@
+.wrapper {
+  width: auto;
+}
+.header {
+  display: flex;
+}
+.logo {
+  background-image: url("image/Tesla-Wordmark-Red.png");
+  width: 166px;
+  height: 55px;
+}
+.menu__item {
+  text-decoration: none;
+}
+.main {
+  background-image: url("image/Tesla.png");
+}
